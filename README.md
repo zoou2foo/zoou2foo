@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **anything about C**
 
+- 📺 My favorite TV shows are **Ted Lasso, Brooklyn Nine-Nine, Mythic Quest, Peaky Blinders, Only Murders in the Building, Silicon Valley**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vjean83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vjean83" height="30" width="40" /></a>
