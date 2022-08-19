@@ -1,6 +1,6 @@
 <h3 align="center">Lifelong learner and eternal doodler</h3>
 
-- 🔭 I’m currently working on **get_next_line and the bonus! Almost done...**
+- 🔭 I’m currently working on **so_long. Having a lot of fun making my first game!!**
 
 - 🌱 I’m currently learning **anything about C**
 
