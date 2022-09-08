@@ -1,6 +1,6 @@
 <h3 align="center">Lifelong learner and eternal doodler</h3>
 
-- 🔭 I’m currently working on **push_swap while waiting for my retry of so_long**
+- 🔭 I’m currently working on **➡️push_swap⬅️ while waiting for my retry of so_long 🐧**
 
 - 🌱 I’m currently learning **anything about C**
 
