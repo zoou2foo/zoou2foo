@@ -1,6 +1,6 @@
 <h3 align="center">Lifelong learner and eternal doodler</h3>
 
-- 🔭 I’m currently working on **➡️push_swap⬅️**
+- 🔭 I’m currently working on **➡️push_swap⬅️ and having fun with linked list**
 
 - 🌱 I’m currently learning **anything about C**
 
