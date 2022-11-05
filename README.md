@@ -1,6 +1,6 @@
 <h3 align="center">Lifelong learner and eternal doodler</h3>
 
-- 🔭 I’m currently working on **⏸pipex⏸**
+- 🔭 I’m currently working on **⏸ pipex ⏸**
 
 - 🌱 I’m currently learning **anything about C**
 
