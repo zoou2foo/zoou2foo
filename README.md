@@ -2,9 +2,13 @@
 
 - 🔭 I’m currently working on ** Philosophers **
 
+- 🎯 Successfull projects from 42: libft(bonus included), printf, get_next_line(tried bonus but not successful), so_long(not all the bonuses), push_swap, pipex(bonus) and minishell.
+
+- ✅ 42 exam passed: Exam Rank 02.
+
 - 🌱 I’m currently learning **anything about C**
 
-- 📺 My favorite TV shows are **Ted Lasso, Brooklyn Nine-Nine, Mythic Quest, Peaky Blinders, The Witcher, Only Murders in the Building, Silicon Valley, Sherlock**
+- 📺 My favorite TV shows are **Ted Lasso, Brooklyn Nine-Nine, Mythic Quest, Peaky Blinders, The Witcher, Emily in Paris, Only Murders in the Building, Silicon Valley, Sherlock**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
