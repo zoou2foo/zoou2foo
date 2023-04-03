@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **anything about C**
 
-- 📺 My favorite TV shows are **Ted Lasso, Brooklyn Nine-Nine, Mythic Quest, Peaky Blinders, The Witcher, Emily in Paris, Only Murders in the Building, Silicon Valley, Sherlock**
+- 📺 My favorite TV shows are **Ted Lasso, The Last of Us, Brooklyn Nine-Nine, Mythic Quest, Peaky Blinders, The Witcher, Emily in Paris, Only Murders in the Building, Silicon Valley, Sherlock**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
