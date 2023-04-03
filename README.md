@@ -4,7 +4,7 @@
 
 - 🎯 Successfull projects from 42: libft(bonus included), printf, get_next_line(tried bonus but not successful), so_long(not all the bonuses), push_swap, pipex(bonus) and minishell.
 
-- ✅ 42 exam passed: Exam Rank 02.
+- ✅ 42 exam passed: Exam Rank 02, Exam Rank 03.
 
 - 🌱 I’m currently learning **anything about C**
 
