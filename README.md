@@ -6,7 +6,7 @@
 
 - ✅ 42 exam passed: Exam Rank 02, Exam Rank 03, Exam Rank 04.
 
-- 🌱 I’m currently learning **anything about C**
+- 🌱 I’m currently learning **anything about C and on the side, html, CSS and JavaScript**
 
 - 📺 My favorite TV shows are **Ted Lasso, The Last of Us, Brooklyn Nine-Nine, Mythic Quest, Peaky Blinders, The Witcher, Emily in Paris, Only Murders in the Building, Silicon Valley, Sherlock**
 
