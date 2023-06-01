@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on ** Cub3d **
 
+- 🧭 Now, embarking on the **journey to learn C++**
+
 - 🎯 Successfull projects from 42: libft(bonus included), printf, get_next_line(tried bonus but not successful), so_long(not all the bonuses), push_swap, pipex(bonus), minishell, Philosophers, NetPractice.
 
 - ✅ 42 exam passed: Exam Rank 02, Exam Rank 03, Exam Rank 04.
