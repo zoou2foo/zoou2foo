@@ -1,14 +1,12 @@
 <h3 align="center">Lifelong learner and eternal doodler</h3>
 
-- 🔭 I’m currently working on ** Cub3d **
+- 🔭 I’m currently working on ** Piscine C++ **
 
-- 🧭 Now, embarking on the **journey to learn C++**
-
-- 🎯 Successfull projects from 42: libft(bonus included), printf, get_next_line(tried bonus but not successful), so_long(not all the bonuses), push_swap, pipex(bonus), minishell, Philosophers, NetPractice.
+- 🎯 Successfull projects from 42: libft(bonus included), printf, get_next_line(tried bonus but not successful), so_long(not all the bonuses), push_swap, pipex(bonus), minishell, Philosophers, NetPractice, Cub3D(one bonus).
 
 - ✅ 42 exam passed: Exam Rank 02, Exam Rank 03, Exam Rank 04.
 
-- 🌱 I’m currently learning **anything about C and on the side, html, CSS and JavaScript**
+- 🌱 I’m currently learning **anything about C++ and on the side, html, CSS and JavaScript**
 
 - 📺 My favorite TV shows are **Ted Lasso, The Last of Us, Brooklyn Nine-Nine, Mythic Quest, Peaky Blinders, The Witcher, Emily in Paris, Only Murders in the Building, Silicon Valley, Sherlock**
 
