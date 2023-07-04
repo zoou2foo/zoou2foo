@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ** Piscine C++ **
 
-- 🎯 Successfull projects from 42: libft(bonus included), printf, get_next_line(tried bonus but not successful), so_long(not all the bonuses), push_swap, pipex(bonus), minishell, Philosophers, NetPractice, Cub3D(one bonus).
+- 🎯 Successfull projects from 42: libft(bonus included), printf, get_next_line(tried bonus but not successful), so_long(not all the bonuses), push_swap, pipex(bonus), minishell, Philosophers, NetPractice, Cub3D(one bonus), Piscine C++ - part 1 (CPP00 - 80%; CPP01 - 100%; CPP02 - 80%; CPP03 - 80%)
 
 - ✅ 42 exam passed: Exam Rank 02, Exam Rank 03, Exam Rank 04.
 
