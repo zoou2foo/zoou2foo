@@ -1,14 +1,14 @@
 <h3 align="center">Lifelong learner and eternal doodler</h3>
 
-- 🔭 I’m currently working on ** Piscine C++ **
+- 🔭 I’m currently working on ** ft_irc **
 
-- 🎯 Successfull projects from 42: libft(bonus included), printf, get_next_line(tried bonus but not successful), so_long(not all the bonuses), push_swap, pipex(bonus), minishell, Philosophers, NetPractice, Cub3D(one bonus), Piscine C++ - part 1 (CPP00 - 80%; CPP01 - 100%; CPP02 - 80%; CPP03 - 80%; CPP04 - 100%), Piscine C++ - part 2 (CPP05 - 100%; CPP06 - 90%; CPP07 - 100%; CPP08 - 100% )
+- 🎯 Successfull projects from 42: libft(bonus included), printf, get_next_line(tried bonus but not successful), so_long(not all the bonuses), push_swap, pipex(bonus), minishell, Philosophers, NetPractice, Cub3D(one bonus), Piscine C++ - part 1 (CPP00 - 80%; CPP01 - 100%; CPP02 - 80%; CPP03 - 80%; CPP04 - 100%), Piscine C++ - part 2 (CPP05 - 100%; CPP06 - 90%; CPP07 - 100%; CPP08 - 100%; CPP09 - 100%)
 
 - ✅ 42 exam passed: Exam Rank 02, Exam Rank 03, Exam Rank 04.
 
 - 🌱 I’m currently learning **anything about C++ and on the side, html, CSS and JavaScript**
   
-- 📚 I'm actually reading Girl Decoded by Rana el Kaliouby
+- 📚 I'm actually reading It Starts With Us by Colleen Hoover
 
 - 📺 My favorite TV shows are **Ted Lasso, The Last of Us, Brooklyn Nine-Nine, Mythic Quest, Peaky Blinders, The Witcher, Emily in Paris, Only Murders in the Building, Silicon Valley, Sherlock**
 
