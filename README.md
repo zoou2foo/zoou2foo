@@ -2,13 +2,13 @@
 
 - 🔭 I’m currently working on ** ft_transcendence **
 
-- 🎯 Successfull projects from 42: libft(bonus included), printf, get_next_line(tried bonus but not successful), so_long(not all the bonuses), push_swap, pipex(bonus), minishell, Philosophers, NetPractice, Cub3D(one bonus), Piscine C++ - part 1 (CPP00 - 80%; CPP01 - 100%; CPP02 - 80%; CPP03 - 80%; CPP04 - 100%), Piscine C++ - part 2 (CPP05 - 100%; CPP06 - 90%; CPP07 - 100%; CPP08 - 100%; CPP09 - 100%), ft_irc
+- 🎯 Successfull projects from 42: libft(bonus included), printf, get_next_line(tried bonus but not successful), so_long(not all the bonuses), push_swap, pipex(bonus), minishell, Philosophers, NetPractice, Cub3D(one bonus), Piscine C++ - part 1 (CPP00 - 80%; CPP01 - 100%; CPP02 - 80%; CPP03 - 80%; CPP04 - 100%), Piscine C++ - part 2 (CPP05 - 100%; CPP06 - 90%; CPP07 - 100%; CPP08 - 100%; CPP09 - 100%), ft_irc, inception
 
-- ✅ 42 exam passed: Exam Rank 02, Exam Rank 03, Exam Rank 04, Exam Rank 05.
+- ✅ 42 exam passed: Exam Rank 02, Exam Rank 03, Exam Rank 04, Exam Rank 05, Exam Rank 06.
 
 - 🌱 I’m currently learning **anything about C++ and on the side, html, CSS and JavaScript**
   
-- 📚 I'm actually reading It Starts With Us by Colleen Hoover
+- 📚 I'm actually reading The Myth of Normal by Gabor Maté
 
 - 📺 My favorite TV shows are **Ted Lasso, The Last of Us, Brooklyn Nine-Nine, Mythic Quest, Peaky Blinders, The Witcher, Emily in Paris, Only Murders in the Building, Silicon Valley, Sherlock**
 
