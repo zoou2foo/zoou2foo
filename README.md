@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **anything about C++ and on the side, html, CSS, JavaScript and Java**
   
-- 📚 I'm actually reading Kaiju no8 v.1 by Naoya Matsumoto
+- 📚 I'm actually reading A Little Life by Hanya Yanagihara
 
 - 📺 My favorite TV shows are **Ted Lasso, The Last of Us, Brooklyn Nine-Nine, Mythic Quest, Peaky Blinders, The Witcher, Emily in Paris, Only Murders in the Building, Silicon Valley, Sherlock**
 
