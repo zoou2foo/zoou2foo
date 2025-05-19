@@ -1,16 +1,16 @@
 <h3 align="center">Lifelong learner and eternal doodler</h3>
 
-- 🔭 I’m currently working on ** ... **
+- 🔭 I’m currently working on ** a book tracker app **
 
 - 🎯 Successfull projects from 42: libft(bonus included), printf, get_next_line(tried bonus but not successful), so_long(not all the bonuses), push_swap, pipex(bonus), minishell, Philosophers, NetPractice, Cub3D(one bonus), Piscine C++ - part 1 (CPP00 - 80%; CPP01 - 100%; CPP02 - 80%; CPP03 - 80%; CPP04 - 100%), Piscine C++ - part 2 (CPP05 - 100%; CPP06 - 90%; CPP07 - 100%; CPP08 - 100%; CPP09 - 100%), ft_irc, inception, ft_transcendence (108%), Internship I (125%).
 
 - ✅ 42 exam passed: Exam Rank 02, Exam Rank 03, Exam Rank 04, Exam Rank 05, Exam Rank 06.
 
-- 🌱 I’m currently learning **anything about C++ and on the side, html, CSS, JavaScript, TypeScript and Java**
+- 🌱 I’m currently learning **JavaScript and React**
   
-- 📚 I'm actually reading Start with Why by Simon Sinek.
+- 📚 I'm actually reading Tomorrow, and tomorrow, and tomorrow by Gabrielle Zevin.
 
-- 📺 My favorite TV shows of the moment are **Clarkson's Farm, Loudermilk, Flex x Cop**
+- 📺 My favorite TV shows of the moment are **Clarkson's Farm, The First Responders, North of North, Saint-Pierre**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
