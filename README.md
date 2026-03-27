@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **JavaScript and React**
   
-- 📚 I'm actually reading Tomorrow, and tomorrow, and tomorrow by Gabrielle Zevin.
+- 📚 I'm actually reading The Vanishing Cherry Blossom Bookshop by Takuya Asakura.
 
-- 📺 My favorite TV shows of the moment are **Clarkson's Farm, The First Responders, North of North, Saint-Pierre**
+- 📺 My favorite TV shows of the moment are **rewatching Ted Lasso**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
